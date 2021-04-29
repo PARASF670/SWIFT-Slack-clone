@@ -4,9 +4,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 
-function dummy(){
-  
-}
+
 
 ReactDOM.render(
   <React.StrictMode>
